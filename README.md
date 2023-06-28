@@ -1,7 +1,5 @@
 
-# Automação de Teste Web com cypress  
-:deciduous_tree:
-
+# Automação de Teste Web com cypress   deciduous_tree:
 
 ## PRÉ-REQUISITOS
 
